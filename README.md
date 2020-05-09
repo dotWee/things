@@ -2,7 +2,7 @@
 
 _collection of random 3d things*, objects and files**_
 
-<sub>* most of them are published on my thingiverse profile [@dotwee](https://www.thingiverse.com/dotwee)</sub>
+<sub>* most of them are published on my thingiverse profile **[@dotwee](https://www.thingiverse.com/dotwee)**</sub>
 </br>
 <sub>** mostly made to function and with **no sense of aesthetics** in mind!</sub>
 
@@ -15,8 +15,6 @@ _collection of random 3d things*, objects and files**_
 
 ## [license](./LICENSE)
 
-    copyright (c) 2019 lukas 'dotwee' wolfsteiner <lukas@wolfsteiner.media>
+copyright (c) 2020 lukas 'dotwee' wolfsteiner <lukas@wolfsteiner.media>
 
-<br />
-
-    source code released under the do what the fuck you want to public license
+licensed under the [_do what the fuck you want to_](/LICENSE) public license
